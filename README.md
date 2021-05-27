@@ -4,7 +4,7 @@ Delovanje se začne ko pritisnemo zeleno tipko “GOR” zasveti LED dioda, ki j
 
 Seznam uporabljenih meterialov in komponent:\\
 1x Arduino UNO\\
-1x 9V baterija\\
+1x 9V baterija//
 4x tipka\\
 3x 220ohm upor\\
 3x led dioda\\
