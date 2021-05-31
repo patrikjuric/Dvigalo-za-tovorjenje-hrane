@@ -12,5 +12,5 @@ Seznam uporabljenih meterialov in komponent:\
 
 Simulacija dvigala deluje brezhibno, saj je tekom procesa izdelave vse potekalo po pričakovanjih. Tak princip delovanja lahko uporabimo tudi v realnem življenju, pri reševamju vsakdanjih problemov.
 
-Patrik Juric 3.A/
+Patrik Juric 3.A&
 Jaka Škof 3.A
