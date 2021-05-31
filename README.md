@@ -10,3 +10,4 @@ Seznam uporabljenih meterialov in komponent:\
 3x led dioda\
 10x žičke
 
+1
